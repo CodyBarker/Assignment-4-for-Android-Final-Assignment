@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bank Account</string>
+    <string name="Developer">Cody Barker</string>
+    <string name="version">V2.0</string>
+
+    <string name="account_name">Account Name</string>
+    <string name="balance">Balance</string>
+    <string name= "addButton">Add Account</string>
+    <string name= "saveButton">Save</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ESP - Bank Account</string>
+    <string name="Developer">ESP - Cody Barker</string>
+    <string name="version">ESP - V2.0</string>
+
+    <string name="account_name">ESP - Account Name</string>
+    <string name="balance">ESP - Balance</string>
+    <string name= "addButton">ESP - Add Account</string>
+    <string name= "saveButton">ESP - Save</string>
+</resources>
